@@ -1,0 +1,2 @@
+This is the main file for the project. 
+It's either code, or the main document we're going to write.

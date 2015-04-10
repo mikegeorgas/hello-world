@@ -1,2 +1,4 @@
-This is the main file for the project. 
+This is the main file for the project. It has now been modified since it was first created.
 It's either code, or the main document we're going to write.
+
+ok, so we're going to add some more text to this file. Also going to make a change to one of the first two lines.

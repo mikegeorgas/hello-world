@@ -1,6 +1,5 @@
 # hello-world
-A simple test repository
+A test repository to learn about GitHub.
 
-This is a change that was made to the README file after the reposity was created. 
-The change will be merged into the 'master' branch (hopefully).
+This README file is currently pretty similar to the main project file.... That's ok for now.
 

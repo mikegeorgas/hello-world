@@ -5,3 +5,6 @@
 This is the main file for the project. 
 
 Trying to learn about github commits, pushes, and pull requests.
+
+List of questions: 
+
